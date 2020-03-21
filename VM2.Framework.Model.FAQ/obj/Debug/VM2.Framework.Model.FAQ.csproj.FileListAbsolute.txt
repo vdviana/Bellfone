@@ -1,0 +1,4 @@
+C:\projs\JMLBellfone\JML.Bellfone.B2B\VM2.Framework.Model.FAQ\bin\Debug\VM2.Framework.Model.FAQ.dll
+C:\projs\JMLBellfone\JML.Bellfone.B2B\VM2.Framework.Model.FAQ\bin\Debug\VM2.Framework.Model.FAQ.pdb
+C:\projs\JMLBellfone\JML.Bellfone.B2B\VM2.Framework.Model.FAQ\obj\Debug\VM2.Framework.Model.FAQ.dll
+C:\projs\JMLBellfone\JML.Bellfone.B2B\VM2.Framework.Model.FAQ\obj\Debug\VM2.Framework.Model.FAQ.pdb

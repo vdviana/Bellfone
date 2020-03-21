@@ -1,0 +1,6 @@
+C:\projs\JMLBellfone\JML.Bellfone.B2B\Framework.AtendimentoOnline.Model\bin\Debug\Framework.AtendimentoOnline.Model.dll.config
+C:\projs\JMLBellfone\JML.Bellfone.B2B\Framework.AtendimentoOnline.Model\bin\Debug\Framework.AtendimentoOnline.Model.dll
+C:\projs\JMLBellfone\JML.Bellfone.B2B\Framework.AtendimentoOnline.Model\bin\Debug\Framework.AtendimentoOnline.Model.pdb
+C:\projs\JMLBellfone\JML.Bellfone.B2B\Framework.AtendimentoOnline.Model\obj\Debug\Framework.AtendimentoOnline.Model.csprojResolveAssemblyReference.cache
+C:\projs\JMLBellfone\JML.Bellfone.B2B\Framework.AtendimentoOnline.Model\obj\Debug\Framework.AtendimentoOnline.Model.dll
+C:\projs\JMLBellfone\JML.Bellfone.B2B\Framework.AtendimentoOnline.Model\obj\Debug\Framework.AtendimentoOnline.Model.pdb

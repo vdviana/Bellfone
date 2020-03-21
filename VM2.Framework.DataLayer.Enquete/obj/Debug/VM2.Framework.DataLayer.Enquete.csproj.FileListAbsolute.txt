@@ -1,0 +1,11 @@
+C:\projs\JMLBellfone\JML.Bellfone.B2B\VM2.Framework.DataLayer.Enquete\bin\Debug\VM2.Framework.DataLayer.Enquete.dll
+C:\projs\JMLBellfone\JML.Bellfone.B2B\VM2.Framework.DataLayer.Enquete\bin\Debug\VM2.Framework.DataLayer.Enquete.pdb
+C:\projs\JMLBellfone\JML.Bellfone.B2B\VM2.Framework.DataLayer.Enquete\bin\Debug\VM2.Framework.Model.Enquete.dll
+C:\projs\JMLBellfone\JML.Bellfone.B2B\VM2.Framework.DataLayer.Enquete\bin\Debug\VM2.Framework.Provider.dll
+C:\projs\JMLBellfone\JML.Bellfone.B2B\VM2.Framework.DataLayer.Enquete\bin\Debug\VM2.Framework.ProviderBase.dll
+C:\projs\JMLBellfone\JML.Bellfone.B2B\VM2.Framework.DataLayer.Enquete\bin\Debug\VM2.Framework.ProviderLibrary.dll
+C:\projs\JMLBellfone\JML.Bellfone.B2B\VM2.Framework.DataLayer.Enquete\bin\Debug\VM2.Framework.DataAccess.dll
+C:\projs\JMLBellfone\JML.Bellfone.B2B\VM2.Framework.DataLayer.Enquete\bin\Debug\VM2.Framework.Model.Enquete.pdb
+C:\projs\JMLBellfone\JML.Bellfone.B2B\VM2.Framework.DataLayer.Enquete\obj\Debug\VM2.Framework.DataLayer.Enquete.csprojResolveAssemblyReference.cache
+C:\projs\JMLBellfone\JML.Bellfone.B2B\VM2.Framework.DataLayer.Enquete\obj\Debug\VM2.Framework.DataLayer.Enquete.dll
+C:\projs\JMLBellfone\JML.Bellfone.B2B\VM2.Framework.DataLayer.Enquete\obj\Debug\VM2.Framework.DataLayer.Enquete.pdb

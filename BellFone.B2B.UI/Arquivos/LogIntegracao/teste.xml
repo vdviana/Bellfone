@@ -1,0 +1,589 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<IntegracaoLog>  
+  <migracao timeInicio="1/1/0001 00:00:00" timeFim="1/1/0001 00:00:00">
+    <evento descricao="Envio de clientes para o Abácos&gt;" timeInicio="2/10/2008 18:24:33" timeFim="2/10/2008 18:24:36"><![CDATA[<logItem id="72" descricao="Erro ao inserir Cliente no abácos." tipoLog="Erro" />
+<logItem id="73" descricao="Erro ao inserir Cliente no abácos." tipoLog="Erro" />
+]]></evento>
+    <evento descricao="Recebimento de status de pedidos do Abácos&gt;" timeInicio="2/10/2008 18:24:38" timeFim="2/10/2008 18:24:41"><![CDATA[<logItem id="106" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00027598396051 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="109" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="110" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="111" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="112" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="113" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="114" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="115" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="116" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="117" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="118" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="119" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="120" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="121" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="122" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="123" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="124" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="141" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="142" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="143" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="144" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="145" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="146" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="147" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="148" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="149" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="150" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="151" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="152" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="153" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="154" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="155" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="156" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="157" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="158" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="159" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="160" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="161" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="166" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="167" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="175" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00077687654439 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="176" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="180" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="181" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00077687654439 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="215" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="216" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="219" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+]]></evento>
+    <evento descricao="Recebimento de status de pedidos do Abácos&gt;" timeInicio="2/10/2008 18:24:42" timeFim="2/10/2008 18:24:44"><![CDATA[<logItem id="106" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00027598396051 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="109" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="110" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="111" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="112" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="113" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="114" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="115" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="116" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="117" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="118" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="119" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="120" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="121" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="122" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="123" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="124" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="141" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="142" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="143" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="144" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="145" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="146" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="147" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="148" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="149" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="150" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="151" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="152" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="153" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="154" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="155" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="156" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="157" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="158" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="159" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="160" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="161" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="166" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="167" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="175" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00077687654439 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="176" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="180" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="181" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00077687654439 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="215" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="216" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+<logItem id="219" descricao="Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!" tipoLog="Erro" />
+]]></evento>
+  </migracao>
+  <migracao timeInicio="1/1/0001 00:00:00" timeFim="1/1/0001 00:00:00">
+	<evento descricao="Envio de clientes para o Abácos&gt;" timeInicio="2/10/2008 18:30:44" timeFim="2/10/2008 18:30:47">
+	<logItem id="72" tipoLog="Erro">
+	<![CDATA[Erro ao inserir Cliente no abácos.]]>
+</logItem>
+<logItem id="73" tipoLog="Erro">
+	<![CDATA[Erro ao inserir Cliente no abácos.]]>
+</logItem>
+
+</evento><evento descricao="Recebimento de status de pedidos do Abácos&gt;" timeInicio="2/10/2008 18:36:00" timeFim="2/10/2008 18:36:03">
+	<logItem id="106" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00027598396051 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="109" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="110" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="111" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="112" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="113" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="114" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="115" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="116" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="117" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="118" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="119" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="120" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="121" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="122" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="123" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="124" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="141" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="142" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="143" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="144" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="145" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="146" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="147" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="148" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="149" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="150" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="151" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="152" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="153" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="154" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="155" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="156" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="157" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="158" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="159" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="160" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="161" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="166" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="167" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="175" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00077687654439 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="176" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="180" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="181" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00077687654439 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="215" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="216" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="219" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+
+</evento><evento descricao="Recebimento de status de pedidos do Abácos&gt;" timeInicio="2/10/2008 18:36:08" timeFim="2/10/2008 18:36:09">
+	<logItem id="106" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00027598396051 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="109" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="110" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="111" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="112" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="113" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="114" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="115" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="116" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="117" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="118" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="119" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="120" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="121" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="122" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="123" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="124" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="141" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="142" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="143" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="144" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="145" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="146" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="147" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="148" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="149" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="150" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="151" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="152" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="153" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="154" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="155" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="156" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="157" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="158" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="159" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="160" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="161" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="166" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="167" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="175" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00077687654439 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="176" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="180" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="181" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00077687654439 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="215" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="216" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+<logItem id="219" tipoLog="Erro">
+	<![CDATA[Erro ao inserir pedido no Abacos.<br>(Interface = 2 Cliente = 00035369157871 Msg = cliente nao localizado)!
+(Erro ao cadastrar pedido)!]]>
+</logItem>
+
+</evento>
+</migracao>
+</IntegracaoLog>

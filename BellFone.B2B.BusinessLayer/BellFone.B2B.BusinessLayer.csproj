@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{37B8D1E8-2D9F-465D-8665-EFECB87B6BFD}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BellFone.B2B.BusinessLayer</RootNamespace>
+    <AssemblyName>BellFone.B2B.BusinessLayer</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation />
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions, Version=1.0.61025.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\WINDOWS\assembly\GAC_MSIL\System.Web.Extensions\1.0.61025.0__31bf3856ad364e35\System.Web.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Telerik.Web.UI, Version=2009.2.701.20, Culture=neutral, PublicKeyToken=121fae78165ba3d4, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\VM2.FrameWork.DLL\Telerik.Web.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="VM2.Framework.ProviderBase, Version=1.0.0.0, Culture=neutral, PublicKeyToken=7e51b722b8557aa8, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\VM2.FrameWork.DLL\VM2.Framework.ProviderBase.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BLAcesso.cs" />
+    <Compile Include="BLBanner.cs" />
+    <Compile Include="BLCategoria.cs" />
+    <Compile Include="BLClassificacao.cs" />
+    <Compile Include="BLCondicaoPagamento.cs" />
+    <Compile Include="BLExtratoBancario.cs" />
+    <Compile Include="BLFabricante.cs" />
+    <Compile Include="BLFichaFinanceira.cs" />
+    <Compile Include="BLFormaPagamento.cs" />
+    <Compile Include="BLFuncoesBellfone.cs" />
+    <Compile Include="BLGrupo.cs" />
+    <Compile Include="BLIntegracao.cs" />
+    <Compile Include="BLMiniBanner.cs" />
+    <Compile Include="BLOrcamento.cs" />
+    <Compile Include="BLOrcamentoItem.cs" />
+    <Compile Include="BLPermissaoAtendimento.cs" />
+    <Compile Include="BLProduto.cs" />
+    <Compile Include="BLRegiao.cs" />
+    <Compile Include="BLRelatorios.cs" />
+    <Compile Include="BLRevendedor.cs" />
+    <Compile Include="BLStatusItemOrcamento.cs" />
+    <Compile Include="BLSubGrupo.cs" />
+    <Compile Include="BLTipoNegocio.cs" />
+    <Compile Include="BLUnidadeMedida.cs" />
+    <Compile Include="BLVendedor.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BellFone.B2B.BusinessLayer.Configuration\BellFone.B2B.BusinessLayer.Configuration.csproj">
+      <Project>{0E510A17-8F86-44DA-B0E1-CE83A0B7A98C}</Project>
+      <Name>BellFone.B2B.BusinessLayer.Configuration</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BellFone.B2B.DataLayer\BellFone.B2B.DataLayer.csproj">
+      <Project>{6D11771C-6021-4661-9582-9835DB546974}</Project>
+      <Name>BellFone.B2B.DataLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BellFone.B2B.Model\BellFone.B2B.Model.csproj">
+      <Project>{CF6434A9-531C-4A8A-AA0B-44A9446BBD0D}</Project>
+      <Name>BellFone.B2B.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Framework.AtendimentoOnline.DataLayer\Framework.AtendimentoOnline.DataLayer.csproj">
+      <Project>{D54ABE79-5CB3-46B6-9619-E0953936E1DE}</Project>
+      <Name>Framework.AtendimentoOnline.DataLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Framework.AtendimentoOnline.Model\Framework.AtendimentoOnline.Model.csproj">
+      <Project>{AC4C5081-4174-497D-8C01-87A613466BE1}</Project>
+      <Name>Framework.AtendimentoOnline.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\VM2.Framework.BusinessLayer.Usuario\VM2.Framework.BusinessLayer.Usuario.csproj">
+      <Project>{2A9EC912-78D3-4550-ACBF-F772F8830651}</Project>
+      <Name>VM2.Framework.BusinessLayer.Usuario</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\VM2.Framework.BusinessLayer.Utilitarios\VM2.Framework.BusinessLayer.Utilitarios.csproj">
+      <Project>{80F6BEF5-E546-4D22-AA6D-E507D5BA6128}</Project>
+      <Name>VM2.Framework.BusinessLayer.Utilitarios</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\VM2.Framework.DataLayer.Usuario\VM2.Framework.DataLayer.Usuario.csproj">
+      <Project>{A0059F73-9EF6-490D-A414-15C93C42FFC9}</Project>
+      <Name>VM2.Framework.DataLayer.Usuario</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\VM2.Framework.Model.Usuario\VM2.Framework.Model.Usuario.csproj">
+      <Project>{98577119-6347-4A6D-87DE-7BC5A1D1646E}</Project>
+      <Name>VM2.Framework.Model.Usuario</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\VM2.Framework.Model.Utilitarios\VM2.Framework.Model.Utilitarios.csproj">
+      <Project>{AC636CA9-BBB6-4610-B383-0F327053536F}</Project>
+      <Name>VM2.Framework.Model.Utilitarios</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

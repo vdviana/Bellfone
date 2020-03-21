@@ -1,0 +1,151 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="BellFone.B2B.UI.Site" %>
+
+<%@ Register Src="~/Componentes/Carrinho.ascx" TagPrefix="uc1" TagName="Carrinho" %>
+<%@ Register Src="~/Componentes/MenuPrincipal.ascx" TagPrefix="uc1" TagName="MenuPrincipal" %>
+
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!-->
+<html lang="en">
+<!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <title>Bellfone Distribuidora</title>
+    <meta name="description" content="">
+    <meta name="author" content="JML Soluções">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel="stylesheet" href="css/bootstrap.min.css" media="screen">
+    <link rel="stylesheet" href="css/jquery-ui-1.10.1.min.css">
+    <link rel="stylesheet" href="css/customize.css">
+    <link rel="stylesheet" href="css/font-awesome.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/flexslider.css">
+    <link rel="stylesheet" href="js/fancybox/jquery.fancybox.css">
+    <!--[if lt IE 9]>
+        <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+        <script src="http://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE9.js"></script>
+        <link rel="stylesheet" href="css/font-awesome-ie7.css">
+    <![endif]-->
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div id="mainContainer" class="clearfix">
+            <header>
+                <div class="upperHeader">
+                    <div class="container">
+                        <ul class="pull-right inline">
+                            <li><a class="invarseColor" href="#">Minha Conta</a></li>
+                            <li class="divider-vertical"></li>
+                            <li><a class="invarseColor" href="#">Carrinho</a></li>
+                        </ul>
+                        <p>
+                            Bom dia, <a href="login.html">Entre</a> ou <a href="register.html">Cadastre-se aqui</a>
+                        </p>
+                    </div>
+                </div>
+                <div class="middleHeader">
+                    <div class="container">
+                        <div class="middleContainer clearfix">
+                            <div class="siteLogo pull-left">
+                                <h1><a href="Default.aspx">ShopFine</a></h1>
+                            </div>
+                            <uc1:Carrinho runat="server" ID="Carrinho" />
+                        </div>
+                    </div>
+                </div>
+                <uc1:MenuPrincipal runat="server" ID="MenuPrincipal" />
+            </header>
+            <asp:ContentPlaceHolder ID="cphConteudo" runat="server" />
+            <footer>
+                <div class="footerOuter">
+                    <div class="container">
+                        <div class="row-fluid">
+                            <div class="span6">
+                                <div class="titleHeader clearfix">
+                                    <h3>Usefull Links</h3>
+                                </div>
+                                <div class="usefullLinks">
+                                    <div class="row-fluid">
+                                        <div class="span6">
+                                            <ul class="unstyled">
+                                                <li><a class="invarseColor" href="#"><i class="icon-caret-right"></i>About Us</a></li>
+                                                <li><a class="invarseColor" href="#"><i class="icon-caret-right"></i>Delivery Information</a></li>
+                                                <li><a class="invarseColor" href="#"><i class="icon-caret-right"></i>Privecy Police</a></li>
+                                                <li><a class="invarseColor" href="#"><i class="icon-caret-right"></i>Tarms &amp; Condations</a></li>
+                                            </ul>
+                                        </div>
+                                        <div class="span6">
+                                            <ul class="unstyled">
+                                                <li><a class="invarseColor" href="#"><i class="icon-caret-right"></i>Surf Brands</a></li>
+                                                <li><a class="invarseColor" href="#"><i class="icon-caret-right"></i>Customer Support</a></li>
+                                                <li><a class="invarseColor" href="#"><i class="icon-caret-right"></i>Special Gifs</a></li>
+                                                <li><a class="invarseColor" href="#"><i class="icon-caret-right"></i>Browse Site Map</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="span3">
+                                <div class="titleHeader clearfix">
+                                    <h3>Contact Info</h3>
+                                </div>
+                                <div class="contactInfo">
+                                    <ul class="unstyled">
+                                        <li>
+                                            <button class="btn btn-small">
+                                                <i class="icon-volume-up"></i>
+                                            </button>
+                                            Call Us: <a class="invarseColor" href="#">5246-4697-891</a>
+                                        </li>
+                                        <li>
+                                            <button class="btn btn-small">
+                                                <i class="icon-envelope-alt"></i>
+                                            </button>
+                                            <a class="invarseColor" href="#">shopfine@shopfine.com</a>
+                                        </li>
+                                        <li>
+                                            <button class="btn btn-small">
+                                                <i class="icon-map-marker"></i>
+                                            </button>
+                                            22 Avenue Park, Los Angeles
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="span3">
+                                <div class="titleHeader clearfix">
+                                    <h3>Newslatter</h3>
+                                </div>
+                                <div class="newslatter">
+                                    <input class="input-block-level" type="text" name="email" value="" placeholder="Nome...">
+                                    <input class="input-block-level" type="text" name="email" value="" placeholder="E-Mail...">
+                                    <button class="btn btn-block" type="submit" name="">Join Us Now</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="span12">
+                            <p>Copyright © 2013 Bellfone. Todos os direitos reservados. Desenvolvido por JML Soluções</p>
+                        </div>
+                    </div>
+                </div>
+            </footer>
+        </div>
+    </form>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.10.1/jquery-ui.min.js"></script>
+    <script src="js/jquery.cookie.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery.flexslider-min.js"></script>
+    <script src="js/jquery.cycle2.min.js"></script>
+    <script src="js/jquery.cycle2.carousel.min.js"></script>
+    <script src="js/jquery.tweet.js"></script>
+    <script src="js/fancybox/jquery.fancybox.js"></script>
+    <script src="js/custom.js"></script>
+</body>
+</html>

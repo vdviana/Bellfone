@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{9047A1ED-CE90-4AFF-B5FB-F1D803FD0218}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>VM2.Framework.DataLayer.Arquivo</RootNamespace>
+    <AssemblyName>VM2.Framework.DataLayer.Arquivo</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SignAssembly>true</SignAssembly>
+    <AssemblyOriginatorKeyFile>VM2.Framework.DataLayer.Arquivo.snk</AssemblyOriginatorKeyFile>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation />
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="VM2.Framework.Provider, Version=1.0.0.0, Culture=neutral, PublicKeyToken=cb57ab4a7a8b9c23, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\VM2.FrameWork.DLL\VM2.Framework.Provider.dll</HintPath>
+    </Reference>
+    <Reference Include="VM2.Framework.ProviderBase, Version=1.0.0.0, Culture=neutral, PublicKeyToken=7e51b722b8557aa8, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\VM2.FrameWork.DLL\VM2.Framework.ProviderBase.dll</HintPath>
+    </Reference>
+    <Reference Include="VM2.Framework.ProviderLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=6ab4079131a6ccd6, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\VM2.FrameWork.DLL\VM2.Framework.ProviderLibrary.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Connector\Connector.cs" />
+    <Compile Include="Oracle\DLArquivo.cs" />
+    <Compile Include="Oracle\DLCategoriaArquivo.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Sql\DLArquivo.cs" />
+    <Compile Include="Sql\DLCategoriaArquivo.cs" />
+    <Compile Include="Interfaces\IDLCategoriaArquivo.cs" />
+    <Compile Include="Interfaces\IDLArquivo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\VM2.Framework.Model.Arquivo\VM2.Framework.Model.Arquivo.csproj">
+      <Project>{86AD5A4B-682E-43F0-B086-08F8ED18A962}</Project>
+      <Name>VM2.Framework.Model.Arquivo</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="VM2.Framework.DataLayer.Arquivo.snk" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

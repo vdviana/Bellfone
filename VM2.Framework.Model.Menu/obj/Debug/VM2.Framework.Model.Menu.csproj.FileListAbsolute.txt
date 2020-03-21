@@ -1,0 +1,4 @@
+C:\projs\JMLBellfone\JML.Bellfone.B2B\VM2.Framework.Model.Menu\bin\Debug\VM2.Framework.Model.Menu.dll
+C:\projs\JMLBellfone\JML.Bellfone.B2B\VM2.Framework.Model.Menu\bin\Debug\VM2.Framework.Model.Menu.pdb
+C:\projs\JMLBellfone\JML.Bellfone.B2B\VM2.Framework.Model.Menu\obj\Debug\VM2.Framework.Model.Menu.dll
+C:\projs\JMLBellfone\JML.Bellfone.B2B\VM2.Framework.Model.Menu\obj\Debug\VM2.Framework.Model.Menu.pdb

@@ -1,0 +1,474 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Web
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3B3FBADF-4DB4-43F6-A3F6-653CD791BC2A}"
+	ProjectSection(SolutionItems) = preProject
+		VM2.FrameWork.DLL\AjaxControlToolkit.dll = VM2.FrameWork.DLL\AjaxControlToolkit.dll
+		VM2.FrameWork.DLL\ICSharpCode.SharpZipLib.dll = VM2.FrameWork.DLL\ICSharpCode.SharpZipLib.dll
+		VM2.FrameWork.DLL\Telerik.Charting.dll = VM2.FrameWork.DLL\Telerik.Charting.dll
+		VM2.FrameWork.DLL\Telerik.ReportConverter.ActiveReports.dll = VM2.FrameWork.DLL\Telerik.ReportConverter.ActiveReports.dll
+		VM2.FrameWork.DLL\Telerik.ReportConverter.CrystalReports.dll = VM2.FrameWork.DLL\Telerik.ReportConverter.CrystalReports.dll
+		VM2.FrameWork.DLL\Telerik.ReportConverter.XtraReports.dll = VM2.FrameWork.DLL\Telerik.ReportConverter.XtraReports.dll
+		VM2.FrameWork.DLL\Telerik.Reporting.Design.dll = VM2.FrameWork.DLL\Telerik.Reporting.Design.dll
+		VM2.FrameWork.DLL\Telerik.Reporting.dll = VM2.FrameWork.DLL\Telerik.Reporting.dll
+		VM2.FrameWork.DLL\Telerik.Reporting.Interfaces.dll = VM2.FrameWork.DLL\Telerik.Reporting.Interfaces.dll
+		VM2.FrameWork.DLL\Telerik.Reporting.Processing.dll = VM2.FrameWork.DLL\Telerik.Reporting.Processing.dll
+		VM2.FrameWork.DLL\Telerik.ReportViewer.Design.dll = VM2.FrameWork.DLL\Telerik.ReportViewer.Design.dll
+		VM2.FrameWork.DLL\Telerik.ReportViewer.WebForms.dll = VM2.FrameWork.DLL\Telerik.ReportViewer.WebForms.dll
+		VM2.FrameWork.DLL\Telerik.Web.Design.dll = VM2.FrameWork.DLL\Telerik.Web.Design.dll
+		VM2.FrameWork.DLL\Telerik.Web.UI.dll = VM2.FrameWork.DLL\Telerik.Web.UI.dll
+		VM2.FrameWork.DLL\TSHAK.Components.dll = VM2.FrameWork.DLL\TSHAK.Components.dll
+		VM2.FrameWork.DLL\Validators.dll = VM2.FrameWork.DLL\Validators.dll
+		VM2.FrameWork.DLL\VM2.Framework.Controls.dll = VM2.FrameWork.DLL\VM2.Framework.Controls.dll
+		VM2.FrameWork.DLL\VM2.Framework.DataAccess.dll = VM2.FrameWork.DLL\VM2.Framework.DataAccess.dll
+		VM2.FrameWork.DLL\VM2.Framework.Provider.dll = VM2.FrameWork.DLL\VM2.Framework.Provider.dll
+		VM2.FrameWork.DLL\VM2.Framework.ProviderBase.dll = VM2.FrameWork.DLL\VM2.Framework.ProviderBase.dll
+		VM2.FrameWork.DLL\VM2.Framework.ProviderLibrary.dll = VM2.FrameWork.DLL\VM2.Framework.ProviderLibrary.dll
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Noticia", "Noticia", "{EFE85B41-BBD1-4725-AA8F-BBA71530E70C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Faq", "Faq", "{6DE2F0BF-858A-4C22-B480-5C749E987F31}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Enquete", "Enquete", "{CBECB9AE-95E6-4468-A735-59A3718FEEEE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Arquivo", "Arquivo", "{49860B06-2C20-4BF0-AD6D-09D72B81883A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FrameWork", "FrameWork", "{0738EDF9-5820-43C5-8B69-A2973AD8C5C1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AtendimentoOnLine", "AtendimentoOnLine", "{65DDA51F-CA8B-4AFF-94FC-1155974554D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VM2.Framework.BusinessLayer.Usuario", "VM2.Framework.BusinessLayer.Usuario\VM2.Framework.BusinessLayer.Usuario.csproj", "{2A9EC912-78D3-4550-ACBF-F772F8830651}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VM2.Framework.Model.Usuario", "VM2.Framework.Model.Usuario\VM2.Framework.Model.Usuario.csproj", "{98577119-6347-4A6D-87DE-7BC5A1D1646E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VM2.Framework.DataLayer.Usuario", "VM2.Framework.DataLayer.Usuario\VM2.Framework.DataLayer.Usuario.csproj", "{A0059F73-9EF6-490D-A414-15C93C42FFC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VM2.Framework.BusinessLayer.Menu", "VM2.Framework.BusinessLayer.Menu\VM2.Framework.BusinessLayer.Menu.csproj", "{EBEF5210-4B66-47A3-AC56-C4BD1BC5097B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VM2.Framework.DataLayer.Menu", "VM2.Framework.DataLayer.Menu\VM2.Framework.DataLayer.Menu.csproj", "{7ADC39A9-C1CD-493C-938C-D65365AB6F06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VM2.Framework.Model.Menu", "VM2.Framework.Model.Menu\VM2.Framework.Model.Menu.csproj", "{535EE152-484D-489E-9609-4A69B3EC30A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VM2.Framework.BusinessLayer.Utilitarios", "VM2.Framework.BusinessLayer.Utilitarios\VM2.Framework.BusinessLayer.Utilitarios.csproj", "{80F6BEF5-E546-4D22-AA6D-E507D5BA6128}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VM2.Framework.DataLayer.Utilitarios", "VM2.Framework.DataLayer.Utilitarios\VM2.Framework.DataLayer.Utilitarios.csproj", "{4429CEDD-4D60-44AA-92A6-7EACA5A18618}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VM2.Framework.Model.Utilitarios", "VM2.Framework.Model.Utilitarios\VM2.Framework.Model.Utilitarios.csproj", "{AC636CA9-BBB6-4610-B383-0F327053536F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BellFone.B2B.UI", "BellFone.B2B.UI\BellFone.B2B.UI.csproj", "{C1D686AC-0085-42B6-8F54-8B5D239AB1AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VM2.Framework.Model.Idioma", "VM2.Framework.Model.Idioma\VM2.Framework.Model.Idioma.csproj", "{EFE0DC1C-70C9-414E-BEE6-0B7B82C0B3A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VM2.Framework.BusinessLayer.Idioma", "VM2.Framework.BusinessLayer.Idioma\VM2.Framework.BusinessLayer.Idioma.csproj", "{B8B59CC1-A424-43B0-9890-8A05579E5302}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VM2.Framework.DataLayer.Idioma", "VM2.Framework.DataLayer.Idioma\VM2.Framework.DataLayer.Idioma.csproj", "{BE38DECF-918C-4A4A-B4AE-F68E0696620C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VM2.Framework.BusinessLayer.Noticia", "Vm2.Framework.BusinessLayer.Noticia\VM2.Framework.BusinessLayer.Noticia.csproj", "{BBAD7E37-DD63-4F26-8185-6AFE91C0C540}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VM2.Framework.DataLayer.Noticia", "Vm2.Framework.DataLayer.Noticia\VM2.Framework.DataLayer.Noticia.csproj", "{8C93A400-8AAB-4C70-9EC8-AA9BD5D94273}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VM2.Framework.Model.Noticia", "Vm2.Framework.Model.Noticia\VM2.Framework.Model.Noticia.csproj", "{045FC20D-02C5-4B6B-9040-AC926803F27F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VM2.Framework.BusinessLayer.Arquivo", "VM2.Framework.BusinessLayer.Arquivo\VM2.Framework.BusinessLayer.Arquivo.csproj", "{8D187C5B-DB75-44F5-B60A-8E5D13087B89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VM2.Framework.BusinessLayer.Enquete", "VM2.Framework.BusinessLayer.Enquete\VM2.Framework.BusinessLayer.Enquete.csproj", "{20A2FB15-D446-4208-884B-83553EF002DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VM2.Framework.BusinessLayer.FAQ", "VM2.Framework.BusinessLayer.FAQ\VM2.Framework.BusinessLayer.FAQ.csproj", "{3FDC42F4-6AF0-4AEB-BD2F-5AD0DDBD98FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VM2.Framework.DataLayer.FAQ", "VM2.Framework.DataLayer.FAQ\VM2.Framework.DataLayer.FAQ.csproj", "{6DB4422F-C60F-42BB-B1F2-612ED3849B05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VM2.Framework.DataLayer.Enquete", "VM2.Framework.DataLayer.Enquete\VM2.Framework.DataLayer.Enquete.csproj", "{7C88D93D-F7CB-4DBD-9CE3-DB5FCF1D98EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VM2.Framework.DataLayer.Arquivo", "VM2.Framework.DataLayer.Arquivo\VM2.Framework.DataLayer.Arquivo.csproj", "{9047A1ED-CE90-4AFF-B5FB-F1D803FD0218}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VM2.Framework.Model.FAQ", "VM2.Framework.Model.FAQ\VM2.Framework.Model.FAQ.csproj", "{27403294-A27F-46AF-8FF5-2BE854A77665}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VM2.Framework.Model.Enquete", "VM2.Framework.Model.Enquete\VM2.Framework.Model.Enquete.csproj", "{2CD184EC-7104-4E42-8D06-5E077C6A973D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VM2.Framework.Model.Arquivo", "VM2.Framework.Model.Arquivo\VM2.Framework.Model.Arquivo.csproj", "{86AD5A4B-682E-43F0-B086-08F8ED18A962}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BellFone.B2B.BusinessLayer", "BellFone.B2B.BusinessLayer\BellFone.B2B.BusinessLayer.csproj", "{37B8D1E8-2D9F-465D-8665-EFECB87B6BFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BellFone.B2B.DataLayer", "BellFone.B2B.DataLayer\BellFone.B2B.DataLayer.csproj", "{6D11771C-6021-4661-9582-9835DB546974}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BellFone.B2B.Model", "BellFone.B2B.Model\BellFone.B2B.Model.csproj", "{CF6434A9-531C-4A8A-AA0B-44A9446BBD0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Framework.AtendimentoOnline.BusinessLayer", "Framework.AtendimentoOnline.BusinessLayer\Framework.AtendimentoOnline.BusinessLayer.csproj", "{326285C9-B97B-4499-B079-AB19F5AF2831}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Framework.AtendimentoOnline.DataLayer", "Framework.AtendimentoOnline.DataLayer\Framework.AtendimentoOnline.DataLayer.csproj", "{D54ABE79-5CB3-46B6-9619-E0953936E1DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Framework.AtendimentoOnline.Model", "Framework.AtendimentoOnline.Model\Framework.AtendimentoOnline.Model.csproj", "{AC4C5081-4174-497D-8C01-87A613466BE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BellFone.B2B.BusinessLayer.Configuration", "BellFone.B2B.BusinessLayer.Configuration\BellFone.B2B.BusinessLayer.Configuration.csproj", "{0E510A17-8F86-44DA-B0E1-CE83A0B7A98C}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 33
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://jmlsolucoes.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = BellFone.B2B.BusinessLayer.Configuration\\BellFone.B2B.BusinessLayer.Configuration.csproj
+		SccProjectName1 = BellFone.B2B.BusinessLayer.Configuration
+		SccLocalPath1 = BellFone.B2B.BusinessLayer.Configuration
+		SccProjectUniqueName2 = BellFone.B2B.BusinessLayer\\BellFone.B2B.BusinessLayer.csproj
+		SccProjectName2 = BellFone.B2B.BusinessLayer
+		SccLocalPath2 = BellFone.B2B.BusinessLayer
+		SccProjectUniqueName3 = BellFone.B2B.DataLayer\\BellFone.B2B.DataLayer.csproj
+		SccProjectName3 = BellFone.B2B.DataLayer
+		SccLocalPath3 = BellFone.B2B.DataLayer
+		SccProjectUniqueName4 = BellFone.B2B.Model\\BellFone.B2B.Model.csproj
+		SccProjectName4 = BellFone.B2B.Model
+		SccLocalPath4 = BellFone.B2B.Model
+		SccProjectUniqueName5 = BellFone.B2B.UI\\BellFone.B2B.UI.csproj
+		SccProjectName5 = BellFone.B2B.UI
+		SccLocalPath5 = BellFone.B2B.UI
+		SccProjectUniqueName6 = Framework.AtendimentoOnline.BusinessLayer\\Framework.AtendimentoOnline.BusinessLayer.csproj
+		SccProjectTopLevelParentUniqueName6 = BellFone.B2B.sln
+		SccProjectName6 = Framework.AtendimentoOnline.BusinessLayer
+		SccLocalPath6 = Framework.AtendimentoOnline.BusinessLayer
+		SccProjectUniqueName7 = Framework.AtendimentoOnline.DataLayer\\Framework.AtendimentoOnline.DataLayer.csproj
+		SccProjectTopLevelParentUniqueName7 = BellFone.B2B.sln
+		SccProjectName7 = Framework.AtendimentoOnline.DataLayer
+		SccLocalPath7 = Framework.AtendimentoOnline.DataLayer
+		SccProjectUniqueName8 = Framework.AtendimentoOnline.Model\\Framework.AtendimentoOnline.Model.csproj
+		SccProjectTopLevelParentUniqueName8 = BellFone.B2B.sln
+		SccProjectName8 = Framework.AtendimentoOnline.Model
+		SccLocalPath8 = Framework.AtendimentoOnline.Model
+		SccProjectUniqueName9 = VM2.Framework.BusinessLayer.Arquivo\\VM2.Framework.BusinessLayer.Arquivo.csproj
+		SccProjectTopLevelParentUniqueName9 = BellFone.B2B.sln
+		SccProjectName9 = VM2.Framework.BusinessLayer.Arquivo
+		SccLocalPath9 = VM2.Framework.BusinessLayer.Arquivo
+		SccProjectUniqueName10 = VM2.Framework.BusinessLayer.Enquete\\VM2.Framework.BusinessLayer.Enquete.csproj
+		SccProjectTopLevelParentUniqueName10 = BellFone.B2B.sln
+		SccProjectName10 = VM2.Framework.BusinessLayer.Enquete
+		SccLocalPath10 = VM2.Framework.BusinessLayer.Enquete
+		SccProjectUniqueName11 = VM2.Framework.BusinessLayer.FAQ\\VM2.Framework.BusinessLayer.FAQ.csproj
+		SccProjectTopLevelParentUniqueName11 = BellFone.B2B.sln
+		SccProjectName11 = VM2.Framework.BusinessLayer.FAQ
+		SccLocalPath11 = VM2.Framework.BusinessLayer.FAQ
+		SccProjectUniqueName12 = VM2.Framework.BusinessLayer.Idioma\\VM2.Framework.BusinessLayer.Idioma.csproj
+		SccProjectTopLevelParentUniqueName12 = BellFone.B2B.sln
+		SccProjectName12 = VM2.Framework.BusinessLayer.Idioma
+		SccLocalPath12 = VM2.Framework.BusinessLayer.Idioma
+		SccProjectUniqueName13 = VM2.Framework.BusinessLayer.Menu\\VM2.Framework.BusinessLayer.Menu.csproj
+		SccProjectTopLevelParentUniqueName13 = BellFone.B2B.sln
+		SccProjectName13 = VM2.Framework.BusinessLayer.Menu
+		SccLocalPath13 = VM2.Framework.BusinessLayer.Menu
+		SccProjectUniqueName14 = Vm2.Framework.BusinessLayer.Noticia\\VM2.Framework.BusinessLayer.Noticia.csproj
+		SccProjectTopLevelParentUniqueName14 = BellFone.B2B.sln
+		SccProjectName14 = Vm2.Framework.BusinessLayer.Noticia
+		SccLocalPath14 = Vm2.Framework.BusinessLayer.Noticia
+		SccProjectUniqueName15 = VM2.Framework.BusinessLayer.Usuario\\VM2.Framework.BusinessLayer.Usuario.csproj
+		SccProjectTopLevelParentUniqueName15 = BellFone.B2B.sln
+		SccProjectName15 = VM2.Framework.BusinessLayer.Usuario
+		SccLocalPath15 = VM2.Framework.BusinessLayer.Usuario
+		SccProjectUniqueName16 = VM2.Framework.BusinessLayer.Utilitarios\\VM2.Framework.BusinessLayer.Utilitarios.csproj
+		SccProjectTopLevelParentUniqueName16 = BellFone.B2B.sln
+		SccProjectName16 = VM2.Framework.BusinessLayer.Utilitarios
+		SccLocalPath16 = VM2.Framework.BusinessLayer.Utilitarios
+		SccProjectUniqueName17 = VM2.Framework.DataLayer.Arquivo\\VM2.Framework.DataLayer.Arquivo.csproj
+		SccProjectTopLevelParentUniqueName17 = BellFone.B2B.sln
+		SccProjectName17 = VM2.Framework.DataLayer.Arquivo
+		SccLocalPath17 = VM2.Framework.DataLayer.Arquivo
+		SccProjectUniqueName18 = VM2.Framework.DataLayer.Enquete\\VM2.Framework.DataLayer.Enquete.csproj
+		SccProjectTopLevelParentUniqueName18 = BellFone.B2B.sln
+		SccProjectName18 = VM2.Framework.DataLayer.Enquete
+		SccLocalPath18 = VM2.Framework.DataLayer.Enquete
+		SccProjectUniqueName19 = VM2.Framework.DataLayer.FAQ\\VM2.Framework.DataLayer.FAQ.csproj
+		SccProjectTopLevelParentUniqueName19 = BellFone.B2B.sln
+		SccProjectName19 = VM2.Framework.DataLayer.FAQ
+		SccLocalPath19 = VM2.Framework.DataLayer.FAQ
+		SccProjectUniqueName20 = VM2.Framework.DataLayer.Idioma\\VM2.Framework.DataLayer.Idioma.csproj
+		SccProjectTopLevelParentUniqueName20 = BellFone.B2B.sln
+		SccProjectName20 = VM2.Framework.DataLayer.Idioma
+		SccLocalPath20 = VM2.Framework.DataLayer.Idioma
+		SccProjectUniqueName21 = VM2.Framework.DataLayer.Menu\\VM2.Framework.DataLayer.Menu.csproj
+		SccProjectTopLevelParentUniqueName21 = BellFone.B2B.sln
+		SccProjectName21 = VM2.Framework.DataLayer.Menu
+		SccLocalPath21 = VM2.Framework.DataLayer.Menu
+		SccProjectUniqueName22 = Vm2.Framework.DataLayer.Noticia\\VM2.Framework.DataLayer.Noticia.csproj
+		SccProjectTopLevelParentUniqueName22 = BellFone.B2B.sln
+		SccProjectName22 = Vm2.Framework.DataLayer.Noticia
+		SccLocalPath22 = Vm2.Framework.DataLayer.Noticia
+		SccProjectUniqueName23 = VM2.Framework.DataLayer.Usuario\\VM2.Framework.DataLayer.Usuario.csproj
+		SccProjectTopLevelParentUniqueName23 = BellFone.B2B.sln
+		SccProjectName23 = VM2.Framework.DataLayer.Usuario
+		SccLocalPath23 = VM2.Framework.DataLayer.Usuario
+		SccProjectUniqueName24 = VM2.Framework.DataLayer.Utilitarios\\VM2.Framework.DataLayer.Utilitarios.csproj
+		SccProjectTopLevelParentUniqueName24 = BellFone.B2B.sln
+		SccProjectName24 = VM2.Framework.DataLayer.Utilitarios
+		SccLocalPath24 = VM2.Framework.DataLayer.Utilitarios
+		SccProjectUniqueName25 = VM2.Framework.Model.Arquivo\\VM2.Framework.Model.Arquivo.csproj
+		SccProjectTopLevelParentUniqueName25 = BellFone.B2B.sln
+		SccProjectName25 = VM2.Framework.Model.Arquivo
+		SccLocalPath25 = VM2.Framework.Model.Arquivo
+		SccProjectUniqueName26 = VM2.Framework.Model.Enquete\\VM2.Framework.Model.Enquete.csproj
+		SccProjectTopLevelParentUniqueName26 = BellFone.B2B.sln
+		SccProjectName26 = VM2.Framework.Model.Enquete
+		SccLocalPath26 = VM2.Framework.Model.Enquete
+		SccProjectUniqueName27 = VM2.Framework.Model.FAQ\\VM2.Framework.Model.FAQ.csproj
+		SccProjectTopLevelParentUniqueName27 = BellFone.B2B.sln
+		SccProjectName27 = VM2.Framework.Model.FAQ
+		SccLocalPath27 = VM2.Framework.Model.FAQ
+		SccProjectUniqueName28 = VM2.Framework.Model.Idioma\\VM2.Framework.Model.Idioma.csproj
+		SccProjectTopLevelParentUniqueName28 = BellFone.B2B.sln
+		SccProjectName28 = VM2.Framework.Model.Idioma
+		SccLocalPath28 = VM2.Framework.Model.Idioma
+		SccProjectUniqueName29 = VM2.Framework.Model.Menu\\VM2.Framework.Model.Menu.csproj
+		SccProjectTopLevelParentUniqueName29 = BellFone.B2B.sln
+		SccProjectName29 = VM2.Framework.Model.Menu
+		SccLocalPath29 = VM2.Framework.Model.Menu
+		SccProjectUniqueName30 = Vm2.Framework.Model.Noticia\\VM2.Framework.Model.Noticia.csproj
+		SccProjectTopLevelParentUniqueName30 = BellFone.B2B.sln
+		SccProjectName30 = Vm2.Framework.Model.Noticia
+		SccLocalPath30 = Vm2.Framework.Model.Noticia
+		SccProjectUniqueName31 = VM2.Framework.Model.Usuario\\VM2.Framework.Model.Usuario.csproj
+		SccProjectTopLevelParentUniqueName31 = BellFone.B2B.sln
+		SccProjectName31 = VM2.Framework.Model.Usuario
+		SccLocalPath31 = VM2.Framework.Model.Usuario
+		SccProjectUniqueName32 = VM2.Framework.Model.Utilitarios\\VM2.Framework.Model.Utilitarios.csproj
+		SccProjectTopLevelParentUniqueName32 = BellFone.B2B.sln
+		SccProjectName32 = VM2.Framework.Model.Utilitarios
+		SccLocalPath32 = VM2.Framework.Model.Utilitarios
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A9EC912-78D3-4550-ACBF-F772F8830651}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A9EC912-78D3-4550-ACBF-F772F8830651}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A9EC912-78D3-4550-ACBF-F772F8830651}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{2A9EC912-78D3-4550-ACBF-F772F8830651}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A9EC912-78D3-4550-ACBF-F772F8830651}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A9EC912-78D3-4550-ACBF-F772F8830651}.Release|x86.ActiveCfg = Release|Any CPU
+		{98577119-6347-4A6D-87DE-7BC5A1D1646E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98577119-6347-4A6D-87DE-7BC5A1D1646E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98577119-6347-4A6D-87DE-7BC5A1D1646E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{98577119-6347-4A6D-87DE-7BC5A1D1646E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98577119-6347-4A6D-87DE-7BC5A1D1646E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98577119-6347-4A6D-87DE-7BC5A1D1646E}.Release|x86.ActiveCfg = Release|Any CPU
+		{A0059F73-9EF6-490D-A414-15C93C42FFC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0059F73-9EF6-490D-A414-15C93C42FFC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0059F73-9EF6-490D-A414-15C93C42FFC9}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A0059F73-9EF6-490D-A414-15C93C42FFC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0059F73-9EF6-490D-A414-15C93C42FFC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0059F73-9EF6-490D-A414-15C93C42FFC9}.Release|x86.ActiveCfg = Release|Any CPU
+		{EBEF5210-4B66-47A3-AC56-C4BD1BC5097B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBEF5210-4B66-47A3-AC56-C4BD1BC5097B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBEF5210-4B66-47A3-AC56-C4BD1BC5097B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{EBEF5210-4B66-47A3-AC56-C4BD1BC5097B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBEF5210-4B66-47A3-AC56-C4BD1BC5097B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBEF5210-4B66-47A3-AC56-C4BD1BC5097B}.Release|x86.ActiveCfg = Release|Any CPU
+		{7ADC39A9-C1CD-493C-938C-D65365AB6F06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ADC39A9-C1CD-493C-938C-D65365AB6F06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ADC39A9-C1CD-493C-938C-D65365AB6F06}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{7ADC39A9-C1CD-493C-938C-D65365AB6F06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ADC39A9-C1CD-493C-938C-D65365AB6F06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7ADC39A9-C1CD-493C-938C-D65365AB6F06}.Release|x86.ActiveCfg = Release|Any CPU
+		{535EE152-484D-489E-9609-4A69B3EC30A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{535EE152-484D-489E-9609-4A69B3EC30A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{535EE152-484D-489E-9609-4A69B3EC30A5}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{535EE152-484D-489E-9609-4A69B3EC30A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{535EE152-484D-489E-9609-4A69B3EC30A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{535EE152-484D-489E-9609-4A69B3EC30A5}.Release|x86.ActiveCfg = Release|Any CPU
+		{80F6BEF5-E546-4D22-AA6D-E507D5BA6128}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80F6BEF5-E546-4D22-AA6D-E507D5BA6128}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80F6BEF5-E546-4D22-AA6D-E507D5BA6128}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{80F6BEF5-E546-4D22-AA6D-E507D5BA6128}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80F6BEF5-E546-4D22-AA6D-E507D5BA6128}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80F6BEF5-E546-4D22-AA6D-E507D5BA6128}.Release|x86.ActiveCfg = Release|Any CPU
+		{4429CEDD-4D60-44AA-92A6-7EACA5A18618}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4429CEDD-4D60-44AA-92A6-7EACA5A18618}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4429CEDD-4D60-44AA-92A6-7EACA5A18618}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{4429CEDD-4D60-44AA-92A6-7EACA5A18618}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4429CEDD-4D60-44AA-92A6-7EACA5A18618}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4429CEDD-4D60-44AA-92A6-7EACA5A18618}.Release|x86.ActiveCfg = Release|Any CPU
+		{AC636CA9-BBB6-4610-B383-0F327053536F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC636CA9-BBB6-4610-B383-0F327053536F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC636CA9-BBB6-4610-B383-0F327053536F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{AC636CA9-BBB6-4610-B383-0F327053536F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC636CA9-BBB6-4610-B383-0F327053536F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC636CA9-BBB6-4610-B383-0F327053536F}.Release|x86.ActiveCfg = Release|Any CPU
+		{C1D686AC-0085-42B6-8F54-8B5D239AB1AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1D686AC-0085-42B6-8F54-8B5D239AB1AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1D686AC-0085-42B6-8F54-8B5D239AB1AF}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C1D686AC-0085-42B6-8F54-8B5D239AB1AF}.Debug|x86.Build.0 = Debug|Any CPU
+		{C1D686AC-0085-42B6-8F54-8B5D239AB1AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1D686AC-0085-42B6-8F54-8B5D239AB1AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1D686AC-0085-42B6-8F54-8B5D239AB1AF}.Release|x86.ActiveCfg = Release|Any CPU
+		{EFE0DC1C-70C9-414E-BEE6-0B7B82C0B3A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFE0DC1C-70C9-414E-BEE6-0B7B82C0B3A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFE0DC1C-70C9-414E-BEE6-0B7B82C0B3A3}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{EFE0DC1C-70C9-414E-BEE6-0B7B82C0B3A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFE0DC1C-70C9-414E-BEE6-0B7B82C0B3A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFE0DC1C-70C9-414E-BEE6-0B7B82C0B3A3}.Release|x86.ActiveCfg = Release|Any CPU
+		{B8B59CC1-A424-43B0-9890-8A05579E5302}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8B59CC1-A424-43B0-9890-8A05579E5302}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8B59CC1-A424-43B0-9890-8A05579E5302}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B8B59CC1-A424-43B0-9890-8A05579E5302}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8B59CC1-A424-43B0-9890-8A05579E5302}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8B59CC1-A424-43B0-9890-8A05579E5302}.Release|x86.ActiveCfg = Release|Any CPU
+		{BE38DECF-918C-4A4A-B4AE-F68E0696620C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE38DECF-918C-4A4A-B4AE-F68E0696620C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE38DECF-918C-4A4A-B4AE-F68E0696620C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{BE38DECF-918C-4A4A-B4AE-F68E0696620C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE38DECF-918C-4A4A-B4AE-F68E0696620C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE38DECF-918C-4A4A-B4AE-F68E0696620C}.Release|x86.ActiveCfg = Release|Any CPU
+		{BBAD7E37-DD63-4F26-8185-6AFE91C0C540}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBAD7E37-DD63-4F26-8185-6AFE91C0C540}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBAD7E37-DD63-4F26-8185-6AFE91C0C540}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{BBAD7E37-DD63-4F26-8185-6AFE91C0C540}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBAD7E37-DD63-4F26-8185-6AFE91C0C540}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBAD7E37-DD63-4F26-8185-6AFE91C0C540}.Release|x86.ActiveCfg = Release|Any CPU
+		{8C93A400-8AAB-4C70-9EC8-AA9BD5D94273}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C93A400-8AAB-4C70-9EC8-AA9BD5D94273}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C93A400-8AAB-4C70-9EC8-AA9BD5D94273}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{8C93A400-8AAB-4C70-9EC8-AA9BD5D94273}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C93A400-8AAB-4C70-9EC8-AA9BD5D94273}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C93A400-8AAB-4C70-9EC8-AA9BD5D94273}.Release|x86.ActiveCfg = Release|Any CPU
+		{045FC20D-02C5-4B6B-9040-AC926803F27F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{045FC20D-02C5-4B6B-9040-AC926803F27F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{045FC20D-02C5-4B6B-9040-AC926803F27F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{045FC20D-02C5-4B6B-9040-AC926803F27F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{045FC20D-02C5-4B6B-9040-AC926803F27F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{045FC20D-02C5-4B6B-9040-AC926803F27F}.Release|x86.ActiveCfg = Release|Any CPU
+		{8D187C5B-DB75-44F5-B60A-8E5D13087B89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D187C5B-DB75-44F5-B60A-8E5D13087B89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D187C5B-DB75-44F5-B60A-8E5D13087B89}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{8D187C5B-DB75-44F5-B60A-8E5D13087B89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D187C5B-DB75-44F5-B60A-8E5D13087B89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D187C5B-DB75-44F5-B60A-8E5D13087B89}.Release|x86.ActiveCfg = Release|Any CPU
+		{20A2FB15-D446-4208-884B-83553EF002DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20A2FB15-D446-4208-884B-83553EF002DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20A2FB15-D446-4208-884B-83553EF002DD}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{20A2FB15-D446-4208-884B-83553EF002DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20A2FB15-D446-4208-884B-83553EF002DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20A2FB15-D446-4208-884B-83553EF002DD}.Release|x86.ActiveCfg = Release|Any CPU
+		{3FDC42F4-6AF0-4AEB-BD2F-5AD0DDBD98FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FDC42F4-6AF0-4AEB-BD2F-5AD0DDBD98FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FDC42F4-6AF0-4AEB-BD2F-5AD0DDBD98FA}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{3FDC42F4-6AF0-4AEB-BD2F-5AD0DDBD98FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FDC42F4-6AF0-4AEB-BD2F-5AD0DDBD98FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FDC42F4-6AF0-4AEB-BD2F-5AD0DDBD98FA}.Release|x86.ActiveCfg = Release|Any CPU
+		{6DB4422F-C60F-42BB-B1F2-612ED3849B05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DB4422F-C60F-42BB-B1F2-612ED3849B05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DB4422F-C60F-42BB-B1F2-612ED3849B05}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{6DB4422F-C60F-42BB-B1F2-612ED3849B05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DB4422F-C60F-42BB-B1F2-612ED3849B05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DB4422F-C60F-42BB-B1F2-612ED3849B05}.Release|x86.ActiveCfg = Release|Any CPU
+		{7C88D93D-F7CB-4DBD-9CE3-DB5FCF1D98EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C88D93D-F7CB-4DBD-9CE3-DB5FCF1D98EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C88D93D-F7CB-4DBD-9CE3-DB5FCF1D98EC}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{7C88D93D-F7CB-4DBD-9CE3-DB5FCF1D98EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C88D93D-F7CB-4DBD-9CE3-DB5FCF1D98EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C88D93D-F7CB-4DBD-9CE3-DB5FCF1D98EC}.Release|x86.ActiveCfg = Release|Any CPU
+		{9047A1ED-CE90-4AFF-B5FB-F1D803FD0218}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9047A1ED-CE90-4AFF-B5FB-F1D803FD0218}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9047A1ED-CE90-4AFF-B5FB-F1D803FD0218}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{9047A1ED-CE90-4AFF-B5FB-F1D803FD0218}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9047A1ED-CE90-4AFF-B5FB-F1D803FD0218}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9047A1ED-CE90-4AFF-B5FB-F1D803FD0218}.Release|x86.ActiveCfg = Release|Any CPU
+		{27403294-A27F-46AF-8FF5-2BE854A77665}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27403294-A27F-46AF-8FF5-2BE854A77665}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27403294-A27F-46AF-8FF5-2BE854A77665}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{27403294-A27F-46AF-8FF5-2BE854A77665}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27403294-A27F-46AF-8FF5-2BE854A77665}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27403294-A27F-46AF-8FF5-2BE854A77665}.Release|x86.ActiveCfg = Release|Any CPU
+		{2CD184EC-7104-4E42-8D06-5E077C6A973D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CD184EC-7104-4E42-8D06-5E077C6A973D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CD184EC-7104-4E42-8D06-5E077C6A973D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{2CD184EC-7104-4E42-8D06-5E077C6A973D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CD184EC-7104-4E42-8D06-5E077C6A973D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CD184EC-7104-4E42-8D06-5E077C6A973D}.Release|x86.ActiveCfg = Release|Any CPU
+		{86AD5A4B-682E-43F0-B086-08F8ED18A962}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86AD5A4B-682E-43F0-B086-08F8ED18A962}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86AD5A4B-682E-43F0-B086-08F8ED18A962}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{86AD5A4B-682E-43F0-B086-08F8ED18A962}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86AD5A4B-682E-43F0-B086-08F8ED18A962}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86AD5A4B-682E-43F0-B086-08F8ED18A962}.Release|x86.ActiveCfg = Release|Any CPU
+		{37B8D1E8-2D9F-465D-8665-EFECB87B6BFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37B8D1E8-2D9F-465D-8665-EFECB87B6BFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37B8D1E8-2D9F-465D-8665-EFECB87B6BFD}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{37B8D1E8-2D9F-465D-8665-EFECB87B6BFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37B8D1E8-2D9F-465D-8665-EFECB87B6BFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37B8D1E8-2D9F-465D-8665-EFECB87B6BFD}.Release|x86.ActiveCfg = Release|Any CPU
+		{6D11771C-6021-4661-9582-9835DB546974}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D11771C-6021-4661-9582-9835DB546974}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D11771C-6021-4661-9582-9835DB546974}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{6D11771C-6021-4661-9582-9835DB546974}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D11771C-6021-4661-9582-9835DB546974}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D11771C-6021-4661-9582-9835DB546974}.Release|x86.ActiveCfg = Release|Any CPU
+		{CF6434A9-531C-4A8A-AA0B-44A9446BBD0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF6434A9-531C-4A8A-AA0B-44A9446BBD0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF6434A9-531C-4A8A-AA0B-44A9446BBD0D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{CF6434A9-531C-4A8A-AA0B-44A9446BBD0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF6434A9-531C-4A8A-AA0B-44A9446BBD0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF6434A9-531C-4A8A-AA0B-44A9446BBD0D}.Release|x86.ActiveCfg = Release|Any CPU
+		{326285C9-B97B-4499-B079-AB19F5AF2831}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{326285C9-B97B-4499-B079-AB19F5AF2831}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{326285C9-B97B-4499-B079-AB19F5AF2831}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{326285C9-B97B-4499-B079-AB19F5AF2831}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{326285C9-B97B-4499-B079-AB19F5AF2831}.Release|Any CPU.Build.0 = Release|Any CPU
+		{326285C9-B97B-4499-B079-AB19F5AF2831}.Release|x86.ActiveCfg = Release|Any CPU
+		{D54ABE79-5CB3-46B6-9619-E0953936E1DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D54ABE79-5CB3-46B6-9619-E0953936E1DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D54ABE79-5CB3-46B6-9619-E0953936E1DE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D54ABE79-5CB3-46B6-9619-E0953936E1DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D54ABE79-5CB3-46B6-9619-E0953936E1DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D54ABE79-5CB3-46B6-9619-E0953936E1DE}.Release|x86.ActiveCfg = Release|Any CPU
+		{AC4C5081-4174-497D-8C01-87A613466BE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC4C5081-4174-497D-8C01-87A613466BE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC4C5081-4174-497D-8C01-87A613466BE1}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{AC4C5081-4174-497D-8C01-87A613466BE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC4C5081-4174-497D-8C01-87A613466BE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC4C5081-4174-497D-8C01-87A613466BE1}.Release|x86.ActiveCfg = Release|Any CPU
+		{0E510A17-8F86-44DA-B0E1-CE83A0B7A98C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E510A17-8F86-44DA-B0E1-CE83A0B7A98C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E510A17-8F86-44DA-B0E1-CE83A0B7A98C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{0E510A17-8F86-44DA-B0E1-CE83A0B7A98C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E510A17-8F86-44DA-B0E1-CE83A0B7A98C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E510A17-8F86-44DA-B0E1-CE83A0B7A98C}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6DE2F0BF-858A-4C22-B480-5C749E987F31} = {0738EDF9-5820-43C5-8B69-A2973AD8C5C1}
+		{CBECB9AE-95E6-4468-A735-59A3718FEEEE} = {0738EDF9-5820-43C5-8B69-A2973AD8C5C1}
+		{49860B06-2C20-4BF0-AD6D-09D72B81883A} = {0738EDF9-5820-43C5-8B69-A2973AD8C5C1}
+		{EFE85B41-BBD1-4725-AA8F-BBA71530E70C} = {0738EDF9-5820-43C5-8B69-A2973AD8C5C1}
+		{2A9EC912-78D3-4550-ACBF-F772F8830651} = {0738EDF9-5820-43C5-8B69-A2973AD8C5C1}
+		{98577119-6347-4A6D-87DE-7BC5A1D1646E} = {0738EDF9-5820-43C5-8B69-A2973AD8C5C1}
+		{A0059F73-9EF6-490D-A414-15C93C42FFC9} = {0738EDF9-5820-43C5-8B69-A2973AD8C5C1}
+		{EBEF5210-4B66-47A3-AC56-C4BD1BC5097B} = {0738EDF9-5820-43C5-8B69-A2973AD8C5C1}
+		{7ADC39A9-C1CD-493C-938C-D65365AB6F06} = {0738EDF9-5820-43C5-8B69-A2973AD8C5C1}
+		{535EE152-484D-489E-9609-4A69B3EC30A5} = {0738EDF9-5820-43C5-8B69-A2973AD8C5C1}
+		{80F6BEF5-E546-4D22-AA6D-E507D5BA6128} = {0738EDF9-5820-43C5-8B69-A2973AD8C5C1}
+		{4429CEDD-4D60-44AA-92A6-7EACA5A18618} = {0738EDF9-5820-43C5-8B69-A2973AD8C5C1}
+		{AC636CA9-BBB6-4610-B383-0F327053536F} = {0738EDF9-5820-43C5-8B69-A2973AD8C5C1}
+		{EFE0DC1C-70C9-414E-BEE6-0B7B82C0B3A3} = {0738EDF9-5820-43C5-8B69-A2973AD8C5C1}
+		{B8B59CC1-A424-43B0-9890-8A05579E5302} = {0738EDF9-5820-43C5-8B69-A2973AD8C5C1}
+		{BE38DECF-918C-4A4A-B4AE-F68E0696620C} = {0738EDF9-5820-43C5-8B69-A2973AD8C5C1}
+		{3FDC42F4-6AF0-4AEB-BD2F-5AD0DDBD98FA} = {6DE2F0BF-858A-4C22-B480-5C749E987F31}
+		{6DB4422F-C60F-42BB-B1F2-612ED3849B05} = {6DE2F0BF-858A-4C22-B480-5C749E987F31}
+		{27403294-A27F-46AF-8FF5-2BE854A77665} = {6DE2F0BF-858A-4C22-B480-5C749E987F31}
+		{20A2FB15-D446-4208-884B-83553EF002DD} = {CBECB9AE-95E6-4468-A735-59A3718FEEEE}
+		{7C88D93D-F7CB-4DBD-9CE3-DB5FCF1D98EC} = {CBECB9AE-95E6-4468-A735-59A3718FEEEE}
+		{2CD184EC-7104-4E42-8D06-5E077C6A973D} = {CBECB9AE-95E6-4468-A735-59A3718FEEEE}
+		{8D187C5B-DB75-44F5-B60A-8E5D13087B89} = {49860B06-2C20-4BF0-AD6D-09D72B81883A}
+		{9047A1ED-CE90-4AFF-B5FB-F1D803FD0218} = {49860B06-2C20-4BF0-AD6D-09D72B81883A}
+		{86AD5A4B-682E-43F0-B086-08F8ED18A962} = {49860B06-2C20-4BF0-AD6D-09D72B81883A}
+		{BBAD7E37-DD63-4F26-8185-6AFE91C0C540} = {EFE85B41-BBD1-4725-AA8F-BBA71530E70C}
+		{8C93A400-8AAB-4C70-9EC8-AA9BD5D94273} = {EFE85B41-BBD1-4725-AA8F-BBA71530E70C}
+		{045FC20D-02C5-4B6B-9040-AC926803F27F} = {EFE85B41-BBD1-4725-AA8F-BBA71530E70C}
+		{326285C9-B97B-4499-B079-AB19F5AF2831} = {65DDA51F-CA8B-4AFF-94FC-1155974554D0}
+		{D54ABE79-5CB3-46B6-9619-E0953936E1DE} = {65DDA51F-CA8B-4AFF-94FC-1155974554D0}
+		{AC4C5081-4174-497D-8C01-87A613466BE1} = {65DDA51F-CA8B-4AFF-94FC-1155974554D0}
+	EndGlobalSection
+EndGlobal

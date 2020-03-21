@@ -1,0 +1,5 @@
+C:\projs\JMLBellfone\JML.Bellfone.B2B\BellFone.B2B.BusinessLayer.Configuration\bin\Debug\BellFone.B2B.BusinessLayer.Configuration.dll
+C:\projs\JMLBellfone\JML.Bellfone.B2B\BellFone.B2B.BusinessLayer.Configuration\bin\Debug\BellFone.B2B.BusinessLayer.Configuration.pdb
+C:\projs\JMLBellfone\JML.Bellfone.B2B\BellFone.B2B.BusinessLayer.Configuration\obj\Debug\BellFone.B2B.BusinessLayer.Configuration.csprojResolveAssemblyReference.cache
+C:\projs\JMLBellfone\JML.Bellfone.B2B\BellFone.B2B.BusinessLayer.Configuration\obj\Debug\BellFone.B2B.BusinessLayer.Configuration.dll
+C:\projs\JMLBellfone\JML.Bellfone.B2B\BellFone.B2B.BusinessLayer.Configuration\obj\Debug\BellFone.B2B.BusinessLayer.Configuration.pdb

@@ -1,0 +1,3 @@
+<logItem id="[id]" tipoLog="[tipo_log]" > 
+	<![CDATA[[descricao]]]>
+</logItem>

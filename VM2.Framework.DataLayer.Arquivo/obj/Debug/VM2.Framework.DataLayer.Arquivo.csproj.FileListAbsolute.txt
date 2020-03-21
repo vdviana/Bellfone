@@ -1,0 +1,11 @@
+C:\projs\JMLBellfone\JML.Bellfone.B2B\VM2.Framework.DataLayer.Arquivo\bin\Debug\VM2.Framework.DataLayer.Arquivo.dll
+C:\projs\JMLBellfone\JML.Bellfone.B2B\VM2.Framework.DataLayer.Arquivo\bin\Debug\VM2.Framework.DataLayer.Arquivo.pdb
+C:\projs\JMLBellfone\JML.Bellfone.B2B\VM2.Framework.DataLayer.Arquivo\bin\Debug\VM2.Framework.Model.Arquivo.dll
+C:\projs\JMLBellfone\JML.Bellfone.B2B\VM2.Framework.DataLayer.Arquivo\bin\Debug\VM2.Framework.Provider.dll
+C:\projs\JMLBellfone\JML.Bellfone.B2B\VM2.Framework.DataLayer.Arquivo\bin\Debug\VM2.Framework.ProviderBase.dll
+C:\projs\JMLBellfone\JML.Bellfone.B2B\VM2.Framework.DataLayer.Arquivo\bin\Debug\VM2.Framework.ProviderLibrary.dll
+C:\projs\JMLBellfone\JML.Bellfone.B2B\VM2.Framework.DataLayer.Arquivo\bin\Debug\VM2.Framework.DataAccess.dll
+C:\projs\JMLBellfone\JML.Bellfone.B2B\VM2.Framework.DataLayer.Arquivo\bin\Debug\VM2.Framework.Model.Arquivo.pdb
+C:\projs\JMLBellfone\JML.Bellfone.B2B\VM2.Framework.DataLayer.Arquivo\obj\Debug\VM2.Framework.DataLayer.Arquivo.csprojResolveAssemblyReference.cache
+C:\projs\JMLBellfone\JML.Bellfone.B2B\VM2.Framework.DataLayer.Arquivo\obj\Debug\VM2.Framework.DataLayer.Arquivo.dll
+C:\projs\JMLBellfone\JML.Bellfone.B2B\VM2.Framework.DataLayer.Arquivo\obj\Debug\VM2.Framework.DataLayer.Arquivo.pdb

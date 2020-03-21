@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Conversa"
+    targetNamespace="http://tempuri.org/Conversa.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/Conversa.xsd"
+    xmlns:mstns="http://tempuri.org/Conversa.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+  <xs:element name="conversation">    
+    <xs:complexType>
+      <xs:sequence>       
+        <xs:element name="messages" maxOccurs="1">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="message">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="texto">
+                      <xs:simpleType>
+                        <xs:restriction base="xs:string">
+                          <xs:minLength value="1"/>
+                          <xs:maxLength value="600"/>
+                        </xs:restriction>
+                      </xs:simpleType>
+                    </xs:element>
+                  </xs:sequence>
+                  <xs:attribute name="isAtendente" type="xs:boolean"/>
+                  <xs:attribute name="ocorrencia" type="xs:dateTime"/>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>          
+        </xs:element>        
+      </xs:sequence>
+      <!--Atributos de conversation-->
+      <xs:attribute name="GUID" type="xs:string" />
+      <xs:attribute name="nomeAtendente" type="xs:string" />
+      <xs:attribute name="nomeCliente" type="xs:string" />
+      <xs:attribute name="emailCliente" type="xs:string" />
+    </xs:complexType>
+    <!-- referência para  os atendentes-->
+    <xs:key name="idAtendente">
+      <xs:selector xpath="atendente" />
+      <xs:field xpath="@id" />      
+    </xs:key>
+    <!-- referência para o assunto-->
+    <xs:key name="idAssunto">
+      <xs:selector xpath="assunto" />
+      <xs:field xpath="@id" />
+    </xs:key>    
+  </xs:element>
+</xs:schema>

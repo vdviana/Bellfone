@@ -1,0 +1,4 @@
+C:\projs\JMLBellfone\JML.Bellfone.B2B\VM2.Framework.Model.Enquete\bin\Debug\VM2.Framework.Model.Enquete.dll
+C:\projs\JMLBellfone\JML.Bellfone.B2B\VM2.Framework.Model.Enquete\bin\Debug\VM2.Framework.Model.Enquete.pdb
+C:\projs\JMLBellfone\JML.Bellfone.B2B\VM2.Framework.Model.Enquete\obj\Debug\VM2.Framework.Model.Enquete.dll
+C:\projs\JMLBellfone\JML.Bellfone.B2B\VM2.Framework.Model.Enquete\obj\Debug\VM2.Framework.Model.Enquete.pdb

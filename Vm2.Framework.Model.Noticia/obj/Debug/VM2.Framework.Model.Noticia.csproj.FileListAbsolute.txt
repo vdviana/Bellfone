@@ -1,0 +1,5 @@
+C:\projs\JMLBellfone\JML.Bellfone.B2B\Vm2.Framework.Model.Noticia\bin\Debug\VM2.Framework.Model.Noticia.dll
+C:\projs\JMLBellfone\JML.Bellfone.B2B\Vm2.Framework.Model.Noticia\bin\Debug\VM2.Framework.Model.Noticia.pdb
+C:\projs\JMLBellfone\JML.Bellfone.B2B\Vm2.Framework.Model.Noticia\obj\Debug\VM2.Framework.Model.Noticia.csprojResolveAssemblyReference.cache
+C:\projs\JMLBellfone\JML.Bellfone.B2B\Vm2.Framework.Model.Noticia\obj\Debug\VM2.Framework.Model.Noticia.dll
+C:\projs\JMLBellfone\JML.Bellfone.B2B\Vm2.Framework.Model.Noticia\obj\Debug\VM2.Framework.Model.Noticia.pdb

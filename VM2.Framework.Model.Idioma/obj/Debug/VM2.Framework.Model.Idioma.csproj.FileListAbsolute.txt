@@ -1,0 +1,4 @@
+C:\projs\JMLBellfone\JML.Bellfone.B2B\VM2.Framework.Model.Idioma\bin\Debug\VM2.Framework.Model.Idioma.dll
+C:\projs\JMLBellfone\JML.Bellfone.B2B\VM2.Framework.Model.Idioma\bin\Debug\VM2.Framework.Model.Idioma.pdb
+C:\projs\JMLBellfone\JML.Bellfone.B2B\VM2.Framework.Model.Idioma\obj\Debug\VM2.Framework.Model.Idioma.dll
+C:\projs\JMLBellfone\JML.Bellfone.B2B\VM2.Framework.Model.Idioma\obj\Debug\VM2.Framework.Model.Idioma.pdb

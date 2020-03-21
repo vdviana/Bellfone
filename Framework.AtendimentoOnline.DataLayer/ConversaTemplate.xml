@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+  <conversation idAtendente="1" GUID="" NomeAtendente="" NomeCliente="" EmailCliente="">
+    <messages>
+    <message ocorrencia="" isAtendente="">
+      <![CDATA[]]>
+    </message>
+  </messages>
+</conversation>

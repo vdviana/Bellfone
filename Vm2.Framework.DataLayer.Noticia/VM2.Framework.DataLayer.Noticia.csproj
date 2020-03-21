@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{8C93A400-8AAB-4C70-9EC8-AA9BD5D94273}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>VM2.Framework.DataLayer.Noticia</RootNamespace>
+    <AssemblyName>VM2.Framework.DataLayer.Noticia</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+    <SignAssembly>true</SignAssembly>
+    <AssemblyOriginatorKeyFile>VM2.Framework.DataLayer.Noticia.snk</AssemblyOriginatorKeyFile>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation />
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="VM2.Framework.Provider, Version=1.0.0.0, Culture=neutral, PublicKeyToken=cb57ab4a7a8b9c23, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\VM2.FrameWork.DLL\VM2.Framework.Provider.dll</HintPath>
+    </Reference>
+    <Reference Include="VM2.Framework.ProviderBase, Version=1.0.0.0, Culture=neutral, PublicKeyToken=7e51b722b8557aa8, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\VM2.FrameWork.DLL\VM2.Framework.ProviderBase.dll</HintPath>
+    </Reference>
+    <Reference Include="VM2.Framework.ProviderLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=6ab4079131a6ccd6, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\VM2.FrameWork.DLL\VM2.Framework.ProviderLibrary.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Connector\Connector.cs" />
+    <Compile Include="Oracle\DLNoticia.cs" />
+    <Compile Include="Oracle\DLNoticiaCategoria.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Sql\DLNoticia.cs" />
+    <Compile Include="Sql\DLNoticiaCategoria.cs" />
+    <Compile Include="Interfaces\IDLNoticiaCategoria.cs" />
+    <Compile Include="Interfaces\IDLNoticia.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Vm2.Framework.Model.Noticia\VM2.Framework.Model.Noticia.csproj">
+      <Project>{045FC20D-02C5-4B6B-9040-AC926803F27F}</Project>
+      <Name>VM2.Framework.Model.Noticia</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Vm2.Framework.DataLayer.Noticia.snk" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
